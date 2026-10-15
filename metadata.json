@@ -1,0 +1,5 @@
+{
+  "name": "CEK Alignment Monitor",
+  "description": "Advanced Contextual Evaluation Key (CEK) for monitoring AI response alignment, safety, and truthfulness using 4D vector geometry.",
+  "requestFramePermissions": []
+}
